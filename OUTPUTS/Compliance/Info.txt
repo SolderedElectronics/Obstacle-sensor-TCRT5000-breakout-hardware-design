@@ -1,5 +1,5 @@
 SKU: 333012
 Full product name: Obstacle sensor TCRT5000 breakout
 Country of origin: Croatia
-HS tariff code: 85389099
+HS tariff code: 85340090
 EAN/UPC barcode: 732388675203
